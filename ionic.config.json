@@ -1,0 +1,7 @@
+{
+  "name": "SearchTess",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
